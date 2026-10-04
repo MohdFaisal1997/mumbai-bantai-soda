@@ -104,19 +104,19 @@ export const company = {
       name: "Fresh Lemon Soda",
       description:
         "Refreshing lemon flavour for every occasion.",
-      image: "/images/products/soda2.jpeg",
+      image: "/images/products/soda7.jpeg",
     },
     {
       name: "Orange Soda",
       description:
         "Fresh and vibrant orange flavoured soda.",
-      image: "/images/products/soda3.jpeg",
+      image: "/images/products/soda4.jpeg",
     },
     {
-      name: "Special Soda",
+      name: "Lychee Soda",
       description:
-        "Our special premium soda flavour.",
-      image: "/images/products/soda4.jpeg",
+        "Our special lychee soda flavour.",
+      image: "/images/products/soda3.jpeg",
     },
   ],
 
